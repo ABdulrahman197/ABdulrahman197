@@ -1,16 +1,13 @@
 # About Me
 
-I am a **Computer Science student** with a strong passion for **cybersecurity** and **penetration testing**. My dedication to this field drives me to constantly learn and improve through **self-study** and **hands-on practical labs**. I actively participate in challenges on platforms like **TryHackMe** and **CTFLearn**, honing my problem-solving skills and technical expertise.
+I am a **Computer Science student** with a strong focus on **cybersecurity** and **penetration testing**. I enhance my skills through **practical labs** and challenges on platforms like **TryHackMe** and **CTFLearn**.
 
-Through my training with **Route** and the **Digital Egypt Pioneers Initiative (DEPI)**, I have gained valuable experience in **ASP.NET development**, further strengthening my ability to develop secure and scalable web applications. This blend of development and cybersecurity skills equips me to approach challenges from multiple perspectives.
+Training with **Route** and the **Digital Egypt Pioneers Initiative (DEPI)** has provided me with experience in **ASP.NET development**, blending my web development and cybersecurity expertise.
 
-I aspire to become a proficient **Red Team Analyst**, leveraging my skills to contribute **innovative solutions** to the cybersecurity landscape. My journey is fueled by a commitment to continuous learning and practical application, ensuring I stay at the forefront of this ever-evolving field.
-
-Feel free to explore my repositories for projects and challenges that showcase my skills in:
+My goal is to become a proficient **Red Team Analyst**, contributing innovative solutions to the cybersecurity field. Check out my repositories for projects in:
 - **Penetration Testing**
+- **Web Security**
 - **ASP.NET Development**
-- **Web Application Security**
-- **Capture The Flag (CTF) Challenges**
-- **Red Teaming Techniques**
+- **CTF Challenges**
 
-Let's connect and collaborate to make the digital world safer and more resilient!
+Let’s connect and secure the digital world together!
